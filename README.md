@@ -24,6 +24,7 @@
 - HTML
 - CSS
 - JavaScript
+- PostgreSQL
 ---
 
 ## 📫 Contact
