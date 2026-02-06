@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Adil 👋
 
-<!--
-**AdilKaz/AdilKaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Future Software Engineer  
+📍 Kazakhstan  
+💻 Interested in backend development, Python and computer science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About me
+
+- I study programming and mathematics seriously
+- I work mainly with Python
+- I participate in programming and math competitions
+
+---
+
+## 🛠 Tech stack
+
+- Python
+- C++
+- Git & GitHub
+- Basic algorithms and data structures
+- Django
+- HTML
+- CSS
+- JavaScript
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/AdilKaz
